@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-13T11:46:11 EDT" name="Default suite" finished-at="2023-04-13T11:47:32 EDT" duration-ms="81230">
+    <groups>
+    </groups>
+    <test started-at="2023-04-13T11:46:11 EDT" name="Default test" finished-at="2023-04-13T11:47:32 EDT" duration-ms="81230">
+      <class name="TESTcom.crm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:46:11 EDT" name="setUp" finished-at="2023-04-13T11:46:25 EDT" duration-ms="14445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:46:25 EDT" name="verifyHomePageTitleTest" finished-at="2023-04-13T11:46:37 EDT" duration-ms="11804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:46:37 EDT" name="tearDown" finished-at="2023-04-13T11:46:37 EDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:46:37 EDT" name="setUp" finished-at="2023-04-13T11:46:50 EDT" duration-ms="12556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserNameTest()[pri:2, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:46:50 EDT" name="verifyUserNameTest" finished-at="2023-04-13T11:47:02 EDT" duration-ms="12537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:47:02 EDT" name="tearDown" finished-at="2023-04-13T11:47:02 EDT" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:47:02 EDT" name="setUp" finished-at="2023-04-13T11:47:15 EDT" duration-ms="12728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFriendsPageLinkTest()[pri:3, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:47:15 EDT" name="verifyFriendsPageLinkTest" finished-at="2023-04-13T11:47:32 EDT" duration-ms="16729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFriendsPageLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TESTcom.crm.qa.testcases.HomePageTest@61001b64]" started-at="2023-04-13T11:47:32 EDT" name="tearDown" finished-at="2023-04-13T11:47:32 EDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TESTcom.crm.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
